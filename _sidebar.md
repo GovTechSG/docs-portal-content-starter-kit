@@ -19,8 +19,8 @@
     - [Roadmap](/release-notes/roadmap)
 - **Announcements**
   - [Upcoming maintenance schedule](/announcements/upcoming)
-  - [Previous maintenance schedule](/announcements/previoux)
-  - [Service status](/announcements/upcoming)
+  - [Previous maintenance schedule](/announcements/previous)
+  - [Service status](/announcements/service-status)
 - **Onboard to product**
   - **Onboarding**
     - [Overview](/onboarding/overview)
