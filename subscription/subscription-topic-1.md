@@ -68,13 +68,3 @@ Utilise images or diagrams to help explain complex concepts or workflows:
 - Highlight key points or takeaways from the discussion.
 - Use bullet points for clear, concise communication.
 
-## FAQ if needed
-
-Detail any FAQ that apply to the topic:
-
-<details>
-  <summary>Click here to expand legal considerations</summary>
-  Extensive information on legal or ethical issues related to the topic.
-</details>
-- Use collapsible sections (`<details>`) for detailed content that is optional but available if needed.
-
