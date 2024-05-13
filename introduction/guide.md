@@ -10,6 +10,13 @@ This page provides an in-depth look at [product/feature name], its key component
 
 > **Guideline:** Describe the product in simple terms. Highlight its relevance and target audience within the first two sentences.
 
+## Prerequisites
+
+List the necessary conditions or items required before installation or use of the product.
+
+- Requirement 1
+- Requirement 2
+
 ### Key features
 
 - **Feature 1:** Description of feature 1.
@@ -34,16 +41,12 @@ Explain the architecture, workflow, or the interaction between different compone
 
 > **Guideline:** Utilise visual aids to explain complex systems. Keep explanations clear and jargon-free, suitable for a general audience.
 
-### Component 1
-
-#### Features
+## Features
 
 - Description of sub-feature.
 - Description of another sub-feature.
 
-### Component 2
-
-#### Configuration
+## Configuration
 
 1. Step one of the configuration.
 2. Step two of the configuration.
@@ -54,13 +57,27 @@ Explain the architecture, workflow, or the interaction between different compone
 
 This section should guide new users through the initial setup and basic usage of the product.
 
-### Prerequisites
+## Prerequisites
 
 - Requirement 1
 - Requirement 2
 
-### Installation
+## Installation
 
+Use tabs to organide platform-specific installation steps. This allows users to easily switch between the instructions that are relevant to their operating system. (Example use case)
+
+<!-- tabs:start -->
+
+** Windows **
 ```bash```
-# Installation commands
-$ command to install the product
+# Windows installation commands
+$ install-command-for-windows
+** macOS **
+# macOS installation commands
+$ install-command-for-macos
+<!-- tabs:end -->
+
+Notes on Using Tabs:
+- **Use Cases for Tabs**: Tabs are ideal for installation guides, setup instructions, or any other content that varies based on user choices or system differences.
+
+
