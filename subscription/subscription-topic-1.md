@@ -48,7 +48,7 @@ Describe common scenarios or use cases related to the topic, illustrating how to
 
 ## Visual aids
 
-Utilize images or diagrams to help explain complex concepts or workflows:
+Utilise images or diagrams to help explain complex concepts or workflows:
 
 ![Example image](https://example.com/image.png ":size=50%")
 - Use images to clarify complex points or to visually represent workflows. Adjust the size as necessary with the `:size=` attribute.
