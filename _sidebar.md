@@ -8,8 +8,8 @@
     - [Key feature 2](/key-feature/key-feature-2)
     - [Key feature 3](/key-feature/key-feature-3)
     - **Subscription**
-      - [Overview](/subscription/overview)
-      - [Subscription topic 1](/subscription/insert-topic-name)
+      - [Overview](/subscription/subscription-overview)
+      - [Subscription topic 1](/subscription/subscription-topic-1)
       - [Subscription topic 2](/subscription/insert-topic-name-2)
 - **Product update**
   - **Release notes** 
@@ -23,12 +23,12 @@
   - [Service status](/announcements/service-status)
 - **Onboard to product**
   - **Onboarding**
-    - [Overview](/onboarding/overview)
-    - [Step 0: Prerequisites](/onboarding/prerequisites)
+    - [Overview](/onboarding/onboarding-overview)
+    - [Step 0: Prerequisites](/onboarding/step0)
     - [Step 1: Subscribe to product](/onboarding/subscribe-to-product)
 - **Guides/How tos**
-  - [How to topic 1](/tutorials/topic-1)
-    -[How to subtopic](/tutorials/subtopic)
+  - [How to topic 1](/tutorials/how-to-1)
+    -[How to subtopic](/tutorials/how-to-subtopic)
 - **Resources**
   - **Learning events**
    - [Present](/resources/present)
@@ -43,8 +43,8 @@
    - [Troubleshooting](/support/troubleshooting)
   - **Support**
    - [Contact us](/support/contact-us)
-   - [Raise a service request](/support/raise-a-service-request)
-   - [Terms & Policies](/supportterms-policies)
+   - [Raise a service request](/support/raise-sr)
+   - [Terms & Policies](/support/tnp)
 
 <!-- Guidelines for sidebar titles:
 1. Keep titles concise to avoid wrapping: aim for fewer than 40 characters.
