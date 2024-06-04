@@ -28,7 +28,7 @@
     - [Step 1: Subscribe to product](/onboarding/subscribe-to-product)
 - **Guides/How tos**
   - [How to topic 1](/tutorials/how-to-1)
-    -[How to subtopic](/tutorials/how-to-subtopic)
+    - [How to subtopic](/tutorials/how-to-subtopic)
 - **Resources**
   - **Learning events**
    - [Present](/resources/present)
